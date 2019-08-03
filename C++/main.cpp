@@ -1,6 +1,6 @@
 #include <iostream>
-#include "SimulatedAnnealing/SimulatedAnnealing.h"
 
 int main() {
-    std::cout << SimulatedAnnealing::calcTemp(100,56);
+    std::cout << "testing\n";
+    return 0;
 }

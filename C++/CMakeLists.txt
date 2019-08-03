@@ -1,6 +1,7 @@
-# cmake_minimum_required(VERSION <specify CMake version here>)
-project(Final_Project_COEN_352_Ported_to_C__)
+cmake_minimum_required(VERSION 3.14)
+project(C__)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Final_Project_COEN_352_Ported_to_C__ main.cpp SimulatedAnnealing/SimulatedAnnealing.cpp SimulatedAnnealing/SimulatedAnnealing.h)
+
+add_executable(C__ main.cpp)

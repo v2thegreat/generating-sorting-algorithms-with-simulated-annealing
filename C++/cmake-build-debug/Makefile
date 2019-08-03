@@ -48,10 +48,10 @@ RM = /cygdrive/c/Users/aliab/.CLion2019.2/system/cygwin_cmake/bin/cmake.exe -E r
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++"
+CMAKE_SOURCE_DIR = "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/generating-sorting-algorithms-with-simulated-annealing/C++"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++/cmake-build-debug"
+CMAKE_BINARY_DIR = "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/generating-sorting-algorithms-with-simulated-annealing/C++/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++/cmake-build-debug/CMakeFiles" "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/generating-sorting-algorithms-with-simulated-annealing/C++/cmake-build-debug/CMakeFiles" "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/generating-sorting-algorithms-with-simulated-annealing/C++/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/generating-sorting-algorithms-with-simulated-annealing/C++/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -111,44 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Final_Project_COEN_352_Ported_to_C__
+# Target rules for targets named C__
 
 # Build rule for target.
-Final_Project_COEN_352_Ported_to_C__: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Final_Project_COEN_352_Ported_to_C__
-.PHONY : Final_Project_COEN_352_Ported_to_C__
+C__: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 C__
+.PHONY : C__
 
 # fast build rule for target.
-Final_Project_COEN_352_Ported_to_C__/fast:
-	$(MAKE) -f CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/build.make CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/build
-.PHONY : Final_Project_COEN_352_Ported_to_C__/fast
-
-SimulatedAnnealing/SimulatedAnnealing.o: SimulatedAnnealing/SimulatedAnnealing.cpp.o
-
-.PHONY : SimulatedAnnealing/SimulatedAnnealing.o
-
-# target to build an object file
-SimulatedAnnealing/SimulatedAnnealing.cpp.o:
-	$(MAKE) -f CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/build.make CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/SimulatedAnnealing/SimulatedAnnealing.cpp.o
-.PHONY : SimulatedAnnealing/SimulatedAnnealing.cpp.o
-
-SimulatedAnnealing/SimulatedAnnealing.i: SimulatedAnnealing/SimulatedAnnealing.cpp.i
-
-.PHONY : SimulatedAnnealing/SimulatedAnnealing.i
-
-# target to preprocess a source file
-SimulatedAnnealing/SimulatedAnnealing.cpp.i:
-	$(MAKE) -f CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/build.make CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/SimulatedAnnealing/SimulatedAnnealing.cpp.i
-.PHONY : SimulatedAnnealing/SimulatedAnnealing.cpp.i
-
-SimulatedAnnealing/SimulatedAnnealing.s: SimulatedAnnealing/SimulatedAnnealing.cpp.s
-
-.PHONY : SimulatedAnnealing/SimulatedAnnealing.s
-
-# target to generate assembly for a file
-SimulatedAnnealing/SimulatedAnnealing.cpp.s:
-	$(MAKE) -f CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/build.make CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/SimulatedAnnealing/SimulatedAnnealing.cpp.s
-.PHONY : SimulatedAnnealing/SimulatedAnnealing.cpp.s
+C__/fast:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/build
+.PHONY : C__/fast
 
 main.o: main.cpp.o
 
@@ -156,7 +129,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/build.make CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -165,7 +138,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/build.make CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -174,7 +147,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/build.make CMakeFiles/Final_Project_COEN_352_Ported_to_C__.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -184,11 +157,8 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... Final_Project_COEN_352_Ported_to_C__"
+	@echo "... C__"
 	@echo "... edit_cache"
-	@echo "... SimulatedAnnealing/SimulatedAnnealing.o"
-	@echo "... SimulatedAnnealing/SimulatedAnnealing.i"
-	@echo "... SimulatedAnnealing/SimulatedAnnealing.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

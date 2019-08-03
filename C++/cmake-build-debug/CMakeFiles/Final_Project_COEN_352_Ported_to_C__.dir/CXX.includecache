@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++/SimulatedAnnealing/SimulatedAnnealing.cpp
+SimulatedAnnealing.h
+/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++/SimulatedAnnealing/SimulatedAnnealing.h
+
+/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++/SimulatedAnnealing/SimulatedAnnealing.h
+vector
+-
+string
+-
+
+/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++/main.cpp
+iostream
+-
+SimulatedAnnealing/SimulatedAnnealing.h
+/cygdrive/c/Users/aliab/Google_Drive/Work/R & D/Simulated Annealing/Sorting-Algorithm-Made-With-Simulated-Annealing/Final Project COEN 352 Ported to C++/SimulatedAnnealing/SimulatedAnnealing.h
+

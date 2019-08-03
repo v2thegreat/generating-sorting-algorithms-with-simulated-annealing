@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Final Project Workspace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_Project_Workspace_jar</output-path>
+    <root id="archive" name="Final Project Workspace.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/tesing/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Final Project Workspace" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/16.0.2/annotations-16.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

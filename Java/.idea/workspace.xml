@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Final Project Workspace:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7772c2d1-e1dc-4bc2-b8e2-10f11f5aed78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datasetReader/datasets/Permutations of 11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datasetReader/datasets/Permutations of 12.7z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations of 5 1 of 10 performance data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations of 5 2 of 10 performance data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations of 5 3 of 10 performance data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations of 5 4 of 10 performance data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations of 5 5 of 10 performance data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations of 5 6 of 10 performance data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations of 5 7 of 10 performance data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations of 5 8 of 10 performance data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations of 5 9 of 10 performance data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimulatedAnnealing/SimulatedAnnealing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimulatedAnnealing/SimulatedAnnealing.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SimulatedAnnealing/SimulatedAnnealing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="69" column="102" lean-forward="true" selection-start-line="69" selection-start-column="102" selection-end-line="69" selection-end-column="102" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="method#runSimulatedAnnealingForDataset#0;class#SimulatedAnnealing#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System.out.</find>
+      <find>System.out.println</find>
+      <find>System.out.print</find>
+      <find>System.out</find>
+      <find>nearlyInverselySortedInputs</find>
+      <find>BubbleSwapSequenceRandomNumbers</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/datasets/DataSetReader.java" />
+        <option value="$PROJECT_DIR$/src/datasets/datasets/DataSetsPaths.java" />
+        <option value="$PROJECT_DIR$/src/generateShuffledArrays.py" />
+        <option value="$PROJECT_DIR$/src/datasetsReader/datasets/DataSetsPaths.java" />
+        <option value="$PROJECT_DIR$/src/datasetsReader/datasets/Random-inputs-large.csv" />
+        <option value="$PROJECT_DIR$/src/datasetsReader/datasets/Random-inputs-small.csv" />
+        <option value="$PROJECT_DIR$/src/datasetsReader/datasets/Random-solutions-large.csv" />
+        <option value="$PROJECT_DIR$/src/datasetsReader/datasets/Random-solutions-small.csv" />
+        <option value="$PROJECT_DIR$/src/speedTests/speedTests.java" />
+        <option value="$PROJECT_DIR$/src/speedTestSupports/speedTestSupports.java" />
+        <option value="$PROJECT_DIR$/src/speedTests.java" />
+        <option value="$PROJECT_DIR$/src/Swaps/Swaps.java" />
+        <option value="$PROJECT_DIR$/src/Swap/Swaps.java" />
+        <option value="$PROJECT_DIR$/src/Swap/Swap.java" />
+        <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$PROJECT_DIR$/src/SwapSequence/Swap.java" />
+        <option value="$PROJECT_DIR$/src/CompareElementsInArray/CompareElementsInArray.java" />
+        <option value="$PROJECT_DIR$/src/arrayEvaluation/CompareElementsInArray.java" />
+        <option value="$PROJECT_DIR$/src/speedTestSupports/speedTestSupports/speedTestSupports.java" />
+        <option value="$PROJECT_DIR$/src/speedTestSupports/speedTests.java" />
+        <option value="$PROJECT_DIR$/src/arrayEvaluation/LIS.java" />
+        <option value="$PROJECT_DIR$/src/SimulatedAnnealing/SimlatedAnnealingImpl.java" />
+        <option value="$PROJECT_DIR$/src/SimulatedAnnealing/SimlatedAnnealing.java" />
+        <option value="$PROJECT_DIR$/src/arrayEvaluation/arrayEvaluation.java" />
+        <option value="$PROJECT_DIR$/src/datasetsReader/DataSetReader.java" />
+        <option value="$PROJECT_DIR$/src/drawGraph.py" />
+        <option value="$PROJECT_DIR$/src/speedTest/speedTests.java" />
+        <option value="$PROJECT_DIR$/src/DataSetsReader/datasets/DataSetsPaths.java" />
+        <option value="$PROJECT_DIR$/src/SwapSequence/Swap/Swap.java" />
+        <option value="$PROJECT_DIR$/src/SwapSequence/SwapSequence.java" />
+        <option value="$PROJECT_DIR$/src/SimulatedAnnealing.java" />
+        <option value="$PROJECT_DIR$/src/SwapSequence.java" />
+        <option value="$PROJECT_DIR$/src/DataSetReader.java" />
+        <option value="$PROJECT_DIR$/src/datasetReader/DataSetReader.java" />
+        <option value="$PROJECT_DIR$/src/arrayEvaluation/ArrayEvaluation.java" />
+        <option value="$PROJECT_DIR$/src/datasetReader/datasets/DataSetsPaths.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/SimulatedAnnealing/SimulatedAnnealing.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="width" value="1623" />
+    <option name="height" value="1742" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CopyConstructorMissesField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Modified Final Project COEN 352" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Final Project Workspace" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Modified Final Project COEN 352" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Final Project Workspace" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Modified Final Project COEN 352" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Modified Final Project COEN 352" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Modified Final Project COEN 352" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Modified Final Project COEN 352" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1922652" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aliab\Google Drive\Work\R &amp; D\Simulated Annealing\Sorting-Algorithm-Made-With-Simulated-Annealing\Modified Final Project COEN 352\src" />
+      <recent name="C:\Users\aliab\Google Drive\Work\College\Classes\Year-3\Semester-1\COEN 352\Final Project\Final Project Workspace\src\datasets\datasets" />
+      <recent name="C:\Users\aliab\Google Drive\Work\College\Classes\Year-3\Semester-1\COEN 352\Final Project\Final Project Workspace\src\datasets" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Swaps" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SimulatedAnnealing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SimulatedAnnealing">
+    <configuration name="ArrayEvaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayEvaluation.ArrayEvaluation" />
+      <module name="Final Project Workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayEvaluation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Final Project Workspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulatedAnnealing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimulatedAnnealing.SimulatedAnnealing" />
+      <module name="Final Project Workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SimulatedAnnealing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimulatedAnnealing" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayEvaluation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7772c2d1-e1dc-4bc2-b8e2-10f11f5aed78" name="Default Changelist" comment="" />
+      <created>1542037455698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542037455698</updated>
+      <workItem from="1542037459026" duration="3063000" />
+      <workItem from="1542289829997" duration="25000" />
+      <workItem from="1542290025107" duration="2381000" />
+      <workItem from="1542556940989" duration="1777000" />
+      <workItem from="1542597706266" duration="598000" />
+      <workItem from="1542643493500" duration="2049000" />
+      <workItem from="1542659391460" duration="1170000" />
+      <workItem from="1542664294481" duration="7449000" />
+      <workItem from="1542749808664" duration="10138000" />
+      <workItem from="1542833262784" duration="10818000" />
+      <workItem from="1542857227629" duration="9334000" />
+      <workItem from="1543147267486" duration="3820000" />
+      <workItem from="1543245892513" duration="1473000" />
+      <workItem from="1543247487043" duration="3115000" />
+      <workItem from="1543251514307" duration="3705000" />
+      <workItem from="1543266428926" duration="3228000" />
+      <workItem from="1543288990238" duration="13929000" />
+      <workItem from="1543326460998" duration="4951000" />
+      <workItem from="1543354461871" duration="16523000" />
+      <workItem from="1543465716307" duration="651000" />
+      <workItem from="1543466656285" duration="997000" />
+      <workItem from="1543521232308" duration="13354000" />
+      <workItem from="1543608831085" duration="6835000" />
+      <workItem from="1543619812255" duration="37000" />
+      <workItem from="1543623244192" duration="1028000" />
+      <workItem from="1543699799837" duration="4786000" />
+      <workItem from="1543719907315" duration="7495000" />
+      <workItem from="1543793249442" duration="943000" />
+      <workItem from="1543801950440" duration="12932000" />
+      <workItem from="1543882071000" duration="5652000" />
+      <workItem from="1543893833208" duration="4076000" />
+      <workItem from="1543939263435" duration="1931000" />
+      <workItem from="1543984581766" duration="5972000" />
+      <workItem from="1544115410763" duration="648000" />
+      <workItem from="1544116384886" duration="1445000" />
+      <workItem from="1545274528402" duration="143000" />
+      <workItem from="1545275002701" duration="19070000" />
+      <workItem from="1545535242283" duration="3012000" />
+      <workItem from="1546131174522" duration="109000" />
+      <workItem from="1546131511958" duration="944000" />
+      <workItem from="1546149162796" duration="12677000" />
+      <workItem from="1548469402931" duration="3438000" />
+      <workItem from="1548475462149" duration="1645000" />
+      <workItem from="1548516932338" duration="71000" />
+      <workItem from="1550007751541" duration="2068000" />
+      <workItem from="1550176121689" duration="14160000" />
+      <workItem from="1550531670685" duration="281000" />
+      <workItem from="1550531993958" duration="829000" />
+      <workItem from="1550533098172" duration="4787000" />
+      <workItem from="1550978055121" duration="955000" />
+      <workItem from="1564845903896" duration="73000" />
+      <workItem from="1564846117439" duration="533000" />
+      <workItem from="1564852536459" duration="1458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="234581000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="927" height="995" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4510932" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32189348" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49887893" visible="true" weight="0.3210024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34098738" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295063" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49887893" weight="0.3289941" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295063" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5011211" side_tool="true" weight="0.3289941" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49943945" weight="0.32719547" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32988507" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dilbert" order="13" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4315305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32988507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49887893" visible="true" weight="0.32792583" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32988507" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32988507" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5011211" side_tool="true" weight="0.32528734" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49943945" weight="0.32873562" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32988507" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>inputSwapSequence.swapVector</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/package-info.java" />
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">CompareElementsInArray</node>
+            <node x="" y="">main</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="221.0" y="237.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shuffledArrays.txt" />
+    <entry file="file://$PROJECT_DIR$/src/datasets/datasets/datasetReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/generateShuffledArrays.py" />
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/Nearly-sorted-solutions.csv" />
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/Nearly-sorted-inputs.csv" />
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/Random-inputs-large.csv" />
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/Nearly-inversely-sorted-solutions.csv" />
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/Random-solutions-large.csv" />
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/Random-solutions-small.csv" />
+    <entry file="file://$PROJECT_DIR$/src/arrayEvaluation/LIS.java" />
+    <entry file="file://$PROJECT_DIR$/src/SimulatedAnnealing/SimlatedAnnealingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/Nearly-inversely-sorted-inputs.csv" />
+    <entry file="file://$PROJECT_DIR$/src/speedTest/speedTestSupports/speedTestSupports.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="387" selection-start-line="387" selection-end-line="387" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawGraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="1183" selection-start-line="1183" selection-end-line="1183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/speedTest/speedTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/Random-inputs-small.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/progressbar-master/src/main/java/me/tongfei/progressbar/ProgressBar.java" />
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/DataSetReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#readCSVFileContents#0;class#DataSetReader#0" />
+            <element signature="method#getStringLineIntegerValues#0;class#DataSetReader#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwapSequence/SwapSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SwapSequence#0;class#SwapSequence#0" />
+            <element signature="method#SwapSequence#1;class#SwapSequence#0" />
+            <element signature="method#createNewRndSwap#0;class#SwapSequence#0" />
+            <element signature="method#addRandom#0;class#SwapSequence#0" />
+            <element signature="method#mutateSequence#0;class#SwapSequence#0" />
+            <element signature="method#getNewNeighbour#0;class#SwapSequence#0" />
+            <element signature="method#getVoidlessSize#0;class#SwapSequence#0" />
+            <element signature="method#toString#0;class#SwapSequence#0" />
+            <element signature="method#runSwapSequence#0;class#SwapSequence#0" />
+            <element signature="method#main#0;class#SwapSequence#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwapSequence/Swap/Swap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#Swap#0;class#Swap#0" />
+            <element signature="method#runSwap#0;class#Swap#0" />
+            <element signature="method#swap#0;class#Swap#0" />
+            <element signature="method#main#0;class#Swap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/DataSetsPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Permutations of 5" />
+    <entry file="file://$PROJECT_DIR$/src/arrayEvaluation/ArrayEvaluation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getRandomIndexes#0;class#ArrayEvaluation#0" />
+            <element signature="method#isElementsSorted#0;class#ArrayEvaluation#0" />
+            <element signature="method#getSortedness#0;class#ArrayEvaluation#0" />
+            <element signature="method#evalEffectiveness#0;class#ArrayEvaluation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datasetReader/datasets/Permutations of 5.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="false" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Permutations of 5 1 of 10 performance data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/All Graphs.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimulatedAnnealing/SimulatedAnnealing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="69" column="102" lean-forward="true" selection-start-line="69" selection-start-column="102" selection-end-line="69" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="method#runSimulatedAnnealingForDataset#0;class#SimulatedAnnealing#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Final Project Workspace:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1922652" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Final Project Workspace</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
